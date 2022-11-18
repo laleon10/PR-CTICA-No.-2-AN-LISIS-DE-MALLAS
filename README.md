@@ -1,6 +1,6 @@
 # PR-CTICA-No.-2-AN-LISIS-DE-MALLAS
  ANÁLISIS DE MALLAS
- 
+  # León Lenin 
 # El objetivo general:
 
 Cálculo de la segunda ley de Kirchhoff, comúnmente conocida como ley de malla, donde podemos obtener el mismo resultado que la primera ley de Kirchhoff (ley nodos), lo que facilita el análisis de circuitos. .
