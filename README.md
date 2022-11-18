@@ -9,7 +9,7 @@ Utilice los resultados del análisis para verificar los resultados que hemos log
 
 # MARCO TEORICO:
 
-Esta es una ley básica utilizada en varias ramas de la ingeniería, especialmente las relacionadas con circuitos eléctricos, dice que la suma algebraica de los voltajes de líneas cerradas será igual a 0, también podemos expresarlo como la relación de resistencia a fuerza, y se puede expresar por la ecuación Exprésala con , y dependiendo del número de puntos será el número de ecuaciones.
+Esta es una ley básica utilizada en varias ramas de la ingeniería, especialmente las relacionadas con circuitos eléctricos, dice que la suma algebraica de los voltajes de líneas cerradas será igual a 0, también podemos expresarlo como la relación de resistencia a fuerza.
 
 # DIAGRAMAS:
 Modelo del circuito del laboratorio:
